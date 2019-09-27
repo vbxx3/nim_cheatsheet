@@ -12,7 +12,7 @@ let n = parseInt(readLine(stdin))
 const fac4 = (var x = 1; for i in 1..4: x *= i; x)
 ```
 
-### Procedurs
+### Procedures
 ```nim
 proc sumTillNegative(x: varargs[int]): int =
   for i in x:
